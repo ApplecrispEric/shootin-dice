@@ -1,0 +1,30 @@
+This project was created by Eric Brown for the 2022 GMTK Game Jam hosted by itch.io.
+The game was created with the Godot Engine and the source code can by found on
+my GitHub: https://github.com/ApplecrispEric
+
+All assets and project files are my own creation and is licensed under MIT License
+with the exception of “Computer Speak v0.3”, a font used for this game which can be found in the
+resources/fonts folder with it's corresponding Creative Commons Attribution license. A copy of that
+license is listed below under the MIT License. Any questions, concerns, or feedback is much
+appreciated: feel free to email me at ebrown5676@gmail.com.
+
+
+Copyright 2022 Eric Brown
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+The FontStruction “Computer Speak v0.3”
+(https://fontstruct.com/fontstructions/show/1436469) by “Mcguy215” is
+licensed under a Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/3.0/).
+“Computer Speak v0.3” was originally cloned (copied) from the FontStruction
+“Computer Speak v0.2” (https://fontstruct.com/fontstructions/show/1432943)
+by “Mcguy215”, which is licensed under a Creative Commons Attribution
+license (http://creativecommons.org/licenses/by/3.0/).
+“Computer Speak v0.2” was in turn cloned (copied) from the FontStruction
+“Computer Speak” (https://fontstruct.com/fontstructions/show/1431517) by
+“Mcguy215”, which is licensed under a Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/3.0/).
